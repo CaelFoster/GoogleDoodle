@@ -1,10 +1,10 @@
-# Web Design 2 Starter
+# google doodle
 
-![Web 2 Starter](web2.webp)
 
-> Computers are dumb. Humans make them smart.
 
-Starter (boilerplate) for all future projects.
+> My google doodle
+
+
 
 ## Why Does This Exist?
 * Don't with blank files
